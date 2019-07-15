@@ -8,7 +8,7 @@
                     <!-- Begin company info -->
                     <div class="footer-company-info">
                         <div class="footer-company-top">
-                            <a href="index.html" class="logo logo-ico-widht-text" title="PathSoft">
+                            <a href="<?php echo base_url()?>" class="logo logo-ico-widht-text" title="Glass Dubai Aluminium">
                                 <!--                                    <img class="lazy logo-ico" data-src="img/logo-ico.png" width="36" height="35" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="">-->
                                 <span class="logo-text">Glass Dubai Aluminium</span>
                             </a>
@@ -48,10 +48,10 @@
                         <nav class="footer-nav">
                             <ul class="footer-mnu">
                                 <li><a href="<?php echo base_url() ?>" class="hover-link" data-title="Home"><span>Home</span></a></li>
-                                <li><a href="<?php echo base_url() ?>" class="hover-link" data-title="About Us"><span>About Us</span></a></li>
-                                <li><a href="<?php echo base_url() ?>" class="hover-link" data-title="Services"><span>Services</span></a></li>
-                                <li><a href="<?php echo base_url() ?>" class="hover-link" data-title="Products"><span>Products</span></a></li>
-                                <li><a href="<?php echo base_url() ?>" class="hover-link" data-title="Contact Us"><span>Contact Us</span></a></li>
+                                <li><a href="<?php echo base_url('about') ?>" class="hover-link" data-title="About Us"><span>About Us</span></a></li>
+                                <li><a href="<?php echo base_url('service') ?>" class="hover-link" data-title="Services"><span>Services</span></a></li>
+                                <li><a href="<?php echo base_url('product') ?>" class="hover-link" data-title="Products"><span>Products</span></a></li>
+                                <li><a href="<?php echo base_url('contact') ?>" class="hover-link" data-title="Contact Us"><span>Contact Us</span></a></li>
                             </ul>
                         </nav>
                     </div>
@@ -61,12 +61,12 @@
                         <h4 class="footer-item-title">What We Offer</h4>
                         <nav class="footer-nav">
                             <ul class="footer-mnu">
-                                <li><a href="#!" class="hover-link" data-title="Aluminium Sliding Windows"><span>Aluminium Sliding Windows</span></a></li>
-                                <li><a href="#!" class="hover-link" data-title="Aluminium and Glass Doors"><span>Aluminium and Glass Doors</span></a></li>
-                                <li><a href="#!" class="hover-link" data-title="Aluminium Frame Glass Partition"><span>Aluminium Frame Glass Partition</span></a></li>
-                                <li><a href="#!" class="hover-link" data-title="Aluminium Glass Partition System"><span>Aluminium Glass Partition System</span></a></li>
-                                <li><a href="#!" class="hover-link" data-title="Curtain wall"><span>Curtain wall</span></a></li>
-                                <li><a href="#!" class="hover-link" data-title="Aluminium Kitchen cabinets"><span>Aluminium Kitchen cabinets</span></a></li>
+                                <li><a href="<?php echo base_url('service') ?>" class="hover-link" data-title="Aluminium Sliding Windows"><span>Aluminium Sliding Windows</span></a></li>
+                                <li><a href="<?php echo base_url('service') ?>" class="hover-link" data-title="Aluminium and Glass Doors"><span>Aluminium and Glass Doors</span></a></li>
+                                <li><a href="<?php echo base_url('service') ?>" class="hover-link" data-title="Aluminium Frame Glass Partition"><span>Aluminium Frame Glass Partition</span></a></li>
+                                <li><a href="<?php echo base_url('service') ?>" class="hover-link" data-title="Aluminium Glass Partition System"><span>Aluminium Glass Partition System</span></a></li>
+                                <li><a href="<?php echo base_url('service') ?>" class="hover-link" data-title="Curtain wall"><span>Curtain wall</span></a></li>
+                                <li><a href="<?php echo base_url('service') ?>" class="hover-link" data-title="Aluminium Kitchen cabinets"><span>Aluminium Kitchen cabinets</span></a></li>
                             </ul>
                         </nav>
                     </div>
@@ -107,7 +107,7 @@
                 <div class="col-md-auto col-12 item">
                     <nav class="footer-links">
                         <ul>
-                            <li>Developed by <a href="http://demi.co.tz">Demi Corporation</a></li>
+                            <li>Developed by <a href="http://demi.co.tz" target="_blank">Demi Corporation</a></li>
                         </ul>
                     </nav>
                 </div>
