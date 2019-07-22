@@ -154,7 +154,7 @@
                             <!-- Begin logo -->
                             <a href="<?php echo base_url()?>" class="logo logo-ico-widht-text" title="Glass Dubai Aluminium">
                                 <!--                                <img class="lazy logo-ico" data-src="img/logo-ico.png" width="36" height="35" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="">-->
-                                <span class="logo-text">Glass Dubai Aluminium</span>
+                                <span class="logo-text">Glass Dubai Aluminium Profile Company LTD</span>
                             </a>
                         </div>
                         <div class="col-lg col-static header-fixed-col">
@@ -163,11 +163,11 @@
                                     <!-- Begin main menu -->
                                     <nav class="main-mnu">
                                         <ul class="main-mnu-list">
-                                            <li><a href="<?php echo base_url()?>" data-title="Home"><span>Home</span></a> </li>
-                                            <li><a href="<?php echo base_url('about')?>" data-title="About us"><span>About us</span></a></li>
-                                            <li><a href="<?php echo base_url('service')?>" data-title="Services"><span>Services</span></a></li>
-                                            <li><a href="<?php echo base_url('product')?>" data-title="Products"><span>Products</span></a></li>
-                                            <li><a href="<?php echo base_url('contact')?>" data-title="Contact Us"><span>Contact Us</span></a></li>
+                                            <li><a href="<?php echo base_url()?>" data-title="HOME"><span>HOME</span></a> </li>
+                                            <li><a href="<?php echo base_url('about')?>" data-title="ABOUT US"><span>ABOUT US</span></a></li>
+                                            <li><a href="<?php echo base_url('service')?>" data-title="SERVICES"><span>SERVICES</span></a></li>
+                                            <li><a href="<?php echo base_url('product')?>" data-title="PRODUCTS"><span>PRODUCTS</span></a></li>
+                                            <li><a href="<?php echo base_url('contact')?>" data-title="CONTACT US"><span>CONTACT US</span></a></li>
                                         </ul>
                                     </nav><!-- End main menu -->
                                 </div>

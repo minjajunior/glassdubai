@@ -134,7 +134,7 @@
                     <!-- Begin servises item -->
                     <div class="services-image-item">
                         <div class="services-image-item-card services-image-item-card-front">
-                            <img src="<?php echo base_url('assets/images/kitchen-cabinet.jpg')?>" alt="Aluminium Kitchen cabinets">
+                            <img src="<?php echo base_url('assets/images/kitchen-cabinet2.jpg')?>" alt="Aluminium Kitchen cabinets">
                         </div>
                         <div class="services-image-item-card services-image-item-card-back">
                             <div class="services-image-item-card-center">
