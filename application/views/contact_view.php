@@ -56,7 +56,10 @@
                     </div>
                 </div>
                 <div class="col-xl-8 col-md-7 content-item">
-                    <form action="#!" method="post" class="contact-form contact-form-padding">
+                    <?php
+                    $attributes = array('class' => 'contact-form contact-form-padding');
+                    echo form_open('contact', $attributes);
+                    ?>
                         <div class="row gutters-20">
                             <div class="col-12">
                                 <h3>Contact Form</h3>
@@ -64,25 +67,25 @@
                             <div class="col-xl-4 col-sm-6 col-12">
                                 <div class="form-field">
                                     <label for="contact-name" class="form-field-label">Your Name</label>
-                                    <input type="text" class="form-field-input" name="ContactName" value="" autocomplete="off" required="required" id="contact-name">
+                                    <input type="text" class="form-field-input" name="name" value="" autocomplete="off" required="required" id="contact-name">
                                 </div>
                             </div>
                             <div class="col-xl-4 col-sm-6 col-12">
                                 <div class="form-field">
                                     <label for="contact-phone" class="form-field-label">Your Phone</label>
-                                    <input type="tel" class="form-field-input mask-phone" name="ContactPhone" value="" autocomplete="off" required="required" id="contact-phone">
+                                    <input type="tel" class="form-field-input mask-phone" name="phone" value="" autocomplete="off" required="required" id="contact-phone">
                                 </div>
                             </div>
                             <div class="col-xl-4 col-12">
                                 <div class="form-field">
                                     <label for="contact-email" class="form-field-label">Your Email</label>
-                                    <input type="email" class="form-field-input" name="ContactEmail" value="" autocomplete="off" required="required" id="contact-email">
+                                    <input type="email" class="form-field-input" name="email" value="" autocomplete="off" required="required" id="contact-email">
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-field">
                                     <label for="contact-message" class="form-field-label">Your Message</label>
-                                    <textarea name="ContactMessage" class="form-field-input" id="contact-message" cols="30" rows="6"></textarea>
+                                    <textarea name="message" class="form-field-input" id="contact-message" cols="30" rows="6"></textarea>
                                 </div>
                             </div>
                             <div class="col-12">
