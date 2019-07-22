@@ -26,7 +26,7 @@
                         <h1 class="page-title">About us</h1>
                     </div>
                     <div class="content">
-                        <img src="<?php echo base_url('assets/images/aluminium-profile.jpg')?>" alt="">
+                        <img src="<?php echo base_url('assets/images/aluminium-profile_about_us.jpg')?>" alt="">
                         <p>Glass Dubai Aluminium Profile was established in 2006 with its main office located in Dar es Salaam at Mbezi Makabe along Morogoro road. Glass Dubai Aluminium Profile is a trade supplier of aluminium profile and accessories, also dealing with manufacturing, installation and maintenance of aluminium & glass products.  </p>
 
                         <p>Other products include imported high quality curtains and blinds for homes and office’s needs. We are committed to give our customers a range of premium quality and innovative blinds and Curtains to give your house, office or any commercial place a new and contemporary look. </p>
