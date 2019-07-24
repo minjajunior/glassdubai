@@ -117,21 +117,26 @@
                             <div class="header-top-links">
                                 <!-- Begin social links -->
                                 <ul class="social-links">
-                                    <li>
+                                    <!--<li>
                                         <a href="#!" title="Facebook">
-                                            <svg viewBox="0 0 320 512"><use xlink:href="<?php echo base_url('assets/images/sprite.svg#facebook-ico')?>"></use></svg>
+                                            <svg viewBox="0 0 320 512"><use xlink:href="<?php /*echo base_url('assets/images/sprite.svg#facebook-ico')*/?>"></use></svg>
                                         </a>
-                                    </li>
+                                    </li>-->
                                     <li>
-                                        <a href="#!" title="Instagram">
+                                        <a href="https://www.instagram.com/dubai_curtains/" title="Instagram Curtains">
                                             <svg viewBox="0 0 448 512"><use xlink:href="<?php echo base_url('assets/images/sprite.svg#instagram-ico')?>"></use></svg>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#!" title="Twitter">
-                                            <svg viewBox="0 0 512 512"><use xlink:href="<?php echo base_url('assets/images/sprite.svg#twitter-ico')?>"></use></svg>
+                                        <a href="https://www.instagram.com/aluminium_windows_tz/" title="Instagram Aluminium">
+                                            <svg viewBox="0 0 448 512"><use xlink:href="<?php echo base_url('assets/images/sprite.svg#instagram-ico')?>"></use></svg>
                                         </a>
                                     </li>
+                                    <!--<li>
+                                        <a href="#!" title="Twitter">
+                                            <svg viewBox="0 0 512 512"><use xlink:href="<?php /*echo base_url('assets/images/sprite.svg#twitter-ico')*/?>"></use></svg>
+                                        </a>
+                                    </li>-->
                                 </ul><!-- End social links -->
                             </div>
                         </div>
