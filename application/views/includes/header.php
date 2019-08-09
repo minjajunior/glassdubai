@@ -109,7 +109,7 @@
                                 </li>
                                 <li>
                                     <b>Call us:</b>
-                                    <a href="#!" class="formingHrefTel">+255 718 233331</a>
+                                    <a href="#!" class="formingHrefTel">+255 717 120 080 / +255 758 645 273</a>
                                 </li>
                             </ul><!-- Ennd header top info -->
                         </div>
