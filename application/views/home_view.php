@@ -9,7 +9,8 @@
                             <div class="main-banner-content">
                                 <h1 class="main-banner-title anim fadeInUp">Aluminium Profile</h1>
                                 <div class="main-banner-desc anim fadeInUp" data-wow-delay="0.2s">
-                                    <p>All sorts of Aluminium profile and Aluminium accessories. Available in wholesale and retail.</p>
+                                    <p>Aluminium profile and accessories, Aluminium and Glass products, Curtains and accessories
+                                        .All available in wholesale and retail.</p>
                                 </div>
                                 <div class="main-banner-btns anim fadeInUp" data-wow-delay="0.3s">
                                     <a href="<?php echo base_url('product')?>" class="btn btn-widht-ico btn-small ripple anim fadeInLeft" data-wow-delay="0.4s">

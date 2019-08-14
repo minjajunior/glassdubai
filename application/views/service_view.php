@@ -29,7 +29,7 @@
                     <!-- Begin servises item -->
                     <div class="services-image-item">
                         <div class="services-image-item-card services-image-item-card-front">
-                            <img src="<?php echo base_url('assets/images/sliding-window.jpg')?>" alt="Aluminium Sliding Windows">
+                            <img src="<?php echo base_url('assets/images/aluminium_window.jpg')?>" alt="Aluminium Sliding Windows">
                         </div>
                         <div class="services-image-item-card services-image-item-card-back">
                             <div class="services-image-item-card-center">

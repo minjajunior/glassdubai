@@ -50,11 +50,32 @@
                 <!-- Begin servises item -->
                 <div class="services-image-item">
                     <div class="services-image-item-card services-image-item-card-front">
-                        <img src="<?php echo base_url('assets/images/curtains.jpg')?>" alt="Curtains">
+                        <img src="<?php echo base_url('assets/images/curtain.jpg')?>" alt="Curtains">
                     </div>
                     <div class="services-image-item-card services-image-item-card-back">
                         <div class="services-image-item-card-center">
                             <h5 class="services-image-item-title">Curtains</h5>
+                            <p class="services-image-item-desc">We offer different types of curtains, blinds and curtain accessories based on our customers’ requirements.  Available in wholesale and retail.</p>
+                            <div class="wrapp-btn-circl-arrow justify-content-center">
+                                <a href="#" class="btn-circl-arrow btn-circl-arrow-white">
+                                    <svg viewBox="0 0 13 9" width="13px" height="9px">
+                                        <use xlink:href="img/sprite.svg#arrow-right"></use>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End servises item -->
+            </div>
+            <div class="col-lg-4 col-md-6 col-12 item">
+                <!-- Begin servises item -->
+                <div class="services-image-item">
+                    <div class="services-image-item-card services-image-item-card-front">
+                        <img src="<?php echo base_url('assets/images/curtain_post.jpg')?>" alt="Curtains">
+                    </div>
+                    <div class="services-image-item-card services-image-item-card-back">
+                        <div class="services-image-item-card-center">
+                            <h5 class="services-image-item-title">Curtains Posts</h5>
                             <p class="services-image-item-desc">We offer different types of curtains, blinds and curtain accessories based on our customers’ requirements.  Available in wholesale and retail.</p>
                             <div class="wrapp-btn-circl-arrow justify-content-center">
                                 <a href="#" class="btn-circl-arrow btn-circl-arrow-white">
