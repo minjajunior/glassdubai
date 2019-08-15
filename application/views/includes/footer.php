@@ -16,36 +16,7 @@
                                 <p>Glass Dubai Aluminium Profile was established in 2006 with its main office located in Dar es Salaam at Mbezi Makabe along Morogoro road. Glass Dubai Aluminium Profile is a trade supplier of aluminium profile and accessories, also dealing with manufacturing, installation and maintenance of aluminium & glass products.  </p>
                             </div>
                         </div>
-                        <ul class="footer-social-links">
-                            <!--<li>
-                                <a href="#!" title="Facebook">
-                                    <svg viewBox="0 0 320 512">
-                                        <use xlink:href="<?php /*echo base_url('assets/images/sprite.svg#facebook-ico')*/?>"></use>
-                                    </svg>
-                                </a>
-                            </li>-->
-                            <li>
-                                <a href="https://www.instagram.com/aluminium_windows_tz/" title="Instagram Aluminium">
-                                    <svg viewBox="0 0 448 512">
-                                        <use xlink:href="<?php echo base_url('assets/images/sprite.svg#instagram-ico')?>"></use>
-                                    </svg>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.instagram.com/dubai_curtains/" title="Instagram Curtains">
-                                    <svg viewBox="0 0 448 512">
-                                        <use xlink:href="<?php echo base_url('assets/images/sprite.svg#instagram-ico')?>"></use>
-                                    </svg>
-                                </a>
-                            </li>
-                            <!--<li>
-                                <a href="#!" title="Twitter">
-                                    <svg viewBox="0 0 512 512">
-                                        <use xlink:href="<?php /*echo base_url('assets/images/sprite.svg#twitter-ico')*/?>"></use>
-                                    </svg>
-                                </a>
-                            </li>-->
-                        </ul>
+
                     </div>
                     <!-- End company info -->
                 </div>
@@ -93,7 +64,7 @@
                             <li>
                                 <i class="i md-22 footer-contact-tel">smartphone</i>
                                 <div class="footer-contact-info">
-                                    <a href="#!" class="formingHrefTel">+255 718 233331</a>
+                                    <a href="#!" class="formingHrefTel">+255 717 120 080 / +255 758 645 273</a>
                                 </div>
                             </li>
                             <li>
@@ -102,6 +73,36 @@
                                     <a href="mailto:mail@example.com">info@glassdubaialuminium.co.tz</a>
                                 </div>
                             </li>
+                        </ul>
+                        <ul class="footer-social-links">
+                            <!--<li>
+                                <a href="#!" title="Facebook">
+                                    <svg viewBox="0 0 320 512">
+                                        <use xlink:href="<?php /*echo base_url('assets/images/sprite.svg#facebook-ico')*/?>"></use>
+                                    </svg>
+                                </a>
+                            </li>-->
+                            <li>
+                                <a href="https://www.instagram.com/aluminium_windows_tz/" title="Instagram Aluminium">
+                                    <svg viewBox="0 0 448 512">
+                                        <use xlink:href="<?php echo base_url('assets/images/sprite.svg#instagram-ico')?>"></use>
+                                    </svg>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/dubai_curtains/" title="Instagram Curtains">
+                                    <svg viewBox="0 0 448 512">
+                                        <use xlink:href="<?php echo base_url('assets/images/sprite.svg#instagram-ico')?>"></use>
+                                    </svg>
+                                </a>
+                            </li>
+                            <!--<li>
+                                <a href="#!" title="Twitter">
+                                    <svg viewBox="0 0 512 512">
+                                        <use xlink:href="<?php /*echo base_url('assets/images/sprite.svg#twitter-ico')*/?>"></use>
+                                    </svg>
+                                </a>
+                            </li>-->
                         </ul>
                     </div>
                 </div>
